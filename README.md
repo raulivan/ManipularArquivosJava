@@ -1,2 +1,7 @@
-# ManipularArquivosJava
-Exemplo de manipulação de arquivos em Java
+# Manipular Arquivos
+Manipulação de arquivos usando a linguagem de programação Java
+
+Criar
+Atualizar
+Copiar
+Excluir
